@@ -1,2 +1,2 @@
 [tool.vercel]
-entrypoint = "Note maker/main.py"
+entrypoint = "main:app"
